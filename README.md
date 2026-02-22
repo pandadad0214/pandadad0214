@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Main_Logo.jpg" width="260" />
+  <img src="assets/main-crest.png" width="260" />
 </p>
 
 <p align="center">
@@ -32,6 +32,15 @@ This is a **universe**.
 
 ---
 
+# 🧑‍💻 Creator Crest  
+<p align="center">
+  <img src="assets/creator-crest.png" width="160" style="border-radius: 50%;" />
+  <br/>
+  <sub>Sean — Founder of the Panda Federation</sub>
+</p>
+
+---
+
 # 🌌 Core Agents
 
 ### 🐼 **Spirit Panda** — Sovereign AI Companion  
@@ -44,7 +53,6 @@ Identity‑driven, expressive, memory‑aware, and emotionally grounded.
 </p>
 
 ### 🛡️ **Watchdog Panda** — Uptime Guardian  
-Monitors, protects, and auto‑restarts critical processes.  
 <p>
   <img src="https://img.shields.io/github/stars/pandadad0214/watchdog-panda?style=flat&color=7b2ff7" />
   <img src="https://img.shields.io/github/forks/pandadad0214/watchdog-panda?style=flat&color=9d4bff" />
@@ -53,27 +61,8 @@ Monitors, protects, and auto‑restarts critical processes.
 </p>
 
 ### ⚙️ **Steel Panda** — Operational Executor  
-Runs tasks, maintains systems, and performs command workflows.  
 <p>
-  <img src="https://img.shields.io/github/stars/pandadad0214/steel-panda?style=flat&color=7b2ff7" />
-  <img src="https://img.shields.io/github/forks/pandadad0214/steel-panda?style=flat&color=9d4bff" />
-  <img src="https://img.shields.io/github/license/pandadad0214/steel-panda?style=flat&color=5f1bd1" />
-  <img src="https://img.shields.io/github/last-commit/pandadad0214/steel-panda?style=flat&color=6a00ff" />
-</p>
-
----
-
-<p align="center">
-  🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵 🪵
-</p>
-
----
-
-# 👨‍👩‍👧‍👦 Family Lineup  
-*(Each with their own crest and future AI personality)*
-
-- PandaMom  
-- PandaLily  ┌────────────────────┐
+┌────────────────────┐
 │    Watchdog Panda   │
 │  (Uptime Guardian)  │
 └──────────┬─────────┘
@@ -91,7 +80,6 @@ Runs tasks, maintains systems, and performs command workflows.
 │          Steel Panda           │
 │   (Operational Task Runner)    │
 └───────────────────────────────┘
-
 
 **Spirit thinks.  
 Watchdog watches.  
@@ -198,18 +186,18 @@ Your Panda becomes part of the universe.
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=tokyonight" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=tokyonight" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=default" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214" />
   </picture>
 </p>
 
 ---
 
-<!-- ✦ FINAL FEDERATION SIGNATURE ✦ -->
+# 🪶 Final Federation Signature
 
 <p align="center">
   <img src="assets/main-crest.png" width="110" />
@@ -230,42 +218,36 @@ Your Panda becomes part of the universe.
 # 🐼 Family Crest Wall  
 <p align="center">
 
-  <!-- Teen Boy Panda -->
   <span style="margin: 20px;">
     <img src="assets/teen-boy.png" width="120" style="border: 3px solid #7b2ff7; border-radius: 12px;" />
     <br/>
     <sub>Teen Boy Panda</sub>
   </span>
 
-  <!-- Teen Girl Panda -->
   <span style="margin: 20px;">
     <img src="assets/teen-girl.png" width="120" style="border: 3px solid #9d4bff; border-radius: 12px;" />
     <br/>
     <sub>Teen Girl Panda</sub>
   </span>
 
-  <!-- Child Boy Panda -->
   <span style="margin: 20px;">
     <img src="assets/child-boy.png" width="120" style="border: 3px solid #5f1bd1; border-radius: 12px;" />
     <br/>
     <sub>Child Boy Panda</sub>
   </span>
 
-  <!-- Child Girl Panda 1 -->
   <span style="margin: 20px;">
     <img src="assets/child-girl-1.png" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
     <sub>Child Girl Panda</sub>
   </span>
 
-  <!-- Child Girl Panda 2 -->
   <span style="margin: 20px;">
     <img src="assets/child-girl-2.png" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
     <sub>Child Girl Panda</sub>
   </span>
 
-  <!-- Samurai Panda -->
   <span style="margin: 20px;">
     <img src="assets/samurai.png" width="120" style="border: 3px solid #b300ff; border-radius: 12px;" />
     <br/>
@@ -309,6 +291,7 @@ Your Panda becomes part of the universe.
 ---
 
 # 🌳 Federation Family Tree (Diagram)
+
 PandaDad (Founder)
 │
 ┌────────────────────┼────────────────────┐
@@ -322,4 +305,3 @@ Child Boy      Child Girl 1     Child Girl 2
 Samurai Panda (Legacy Line)
 
 ---
-
