@@ -220,6 +220,7 @@ Your Panda becomes part of the universe.
 
 # 🌳 Federation Family Tree (Diagram)
 
+```
 PandaDad (Founder)
 │
 ┌────────────────────┼────────────────────┐
@@ -231,5 +232,6 @@ PandaMom            Teen Boy Panda       Teen Girl Panda
 Child Boy      Child Girl 1     Child Girl 2
 │
 Samurai Panda (Legacy Line)
+```
 
 ---
