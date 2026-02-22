@@ -198,10 +198,10 @@ Your Panda becomes part of the universe.
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=tokyonight" 
+      srcset="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg&theme=tokyonight" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
+      srcset="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg&theme=default" 
       media="(prefers-color-scheme: light)" />
     <img src="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg" />
   </picture>
