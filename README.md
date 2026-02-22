@@ -198,12 +198,12 @@ Your Panda becomes part of the universe.
 <p align="center">
   <picture>
     <source 
-      srcset="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg&theme=tokyonight" 
+      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=tokyonight" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg&theme=default" 
+      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=default" 
       media="(prefers-color-scheme: light)" />
-    <img src="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true" />
   </picture>
 </p>
 
