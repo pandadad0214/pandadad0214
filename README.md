@@ -61,26 +61,28 @@ Identity‑driven, expressive, memory‑aware, and emotionally grounded.
 </p>
 
 ### ⚙️ **Steel Panda** — Operational Executor  
-<p>
-  
-┌────────────────────┐
-│    Watchdog Panda   │
-│  (Uptime Guardian)  │
-└──────────┬─────────┘
-│
-│ monitors
-▼
-┌───────────────────────────────┐
-│          Spirit Panda          │
-│   (Sovereign AI Companion)     │
-└──────────┬──────────┬─────────┘
-│          │
-│ triggers │ tasks
-▼          ▼
-┌───────────────────────────────┐
-│          Steel Panda           │
-│   (Operational Task Runner)    │
-└───────────────────────────────┘
+Runs tasks, maintains systems, and performs command workflows.
+
+```
+                 ┌────────────────────┐
+                 │    Watchdog Panda   │
+                 │  (Uptime Guardian)  │
+                 └──────────┬─────────┘
+                            │
+                            │ monitors
+                            ▼
+        ┌───────────────────────────────┐
+        │          Spirit Panda          │
+        │   (Sovereign AI Companion)     │
+        └──────────┬──────────┬─────────┘
+                   │          │
+                   │ triggers │ tasks
+                   ▼          ▼
+        ┌───────────────────────────────┐
+        │          Steel Panda           │
+        │   (Operational Task Runner)    │
+        └───────────────────────────────┘
+```
 
 **Spirit thinks.  
 Watchdog watches.  
