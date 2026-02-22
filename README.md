@@ -62,6 +62,7 @@ Identity‑driven, expressive, memory‑aware, and emotionally grounded.
 
 ### ⚙️ **Steel Panda** — Operational Executor  
 <p>
+  
 ┌────────────────────┐
 │    Watchdog Panda   │
 │  (Uptime Guardian)  │
@@ -211,34 +212,6 @@ Your Panda becomes part of the universe.
   <i style="font-size: 1.05rem; color: #8a4bff;">
     ✦ In the glow of the Aurora Spirit, we build what endures ✦
   </i>
-</p>
-
----
-
-# 📊 GitHub Stats (Auto‑Switching)
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214" />
-  </picture>
 </p>
 
 ---
