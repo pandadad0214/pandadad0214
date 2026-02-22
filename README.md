@@ -207,7 +207,12 @@ Your Panda becomes part of the universe.
 
 ---
 
-# 🪶 Signature
+# 🪶 <p align="center">
+  <img src="assets/main-crest.png" width="90" />
+  <br/>
+  <i>“A sovereign AI future begins at home.”</i>
+</p>
+
 
 <p align="center">
   <i>“A sovereign AI future begins at home.”</i>
