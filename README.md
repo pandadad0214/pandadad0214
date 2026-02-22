@@ -1,3 +1,22 @@
+<p align="center">
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+
+  <!-- Local First -->
+  <img src="https://img.shields.io/badge/Local‑First-green" />
+
+  <!-- Sovereign AI -->
+  <img src="https://img.shields.io/badge/Sovereign‑AI-blue" />
+
+  <!-- Maintainer Badge -->
+  <img src="https://img.shields.io/badge/Maintainer-Panda%20Federation-purple" />
+
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=pandadad0214&color=blue" />
+
+</p>
+
 # 🐼 Sean — Architect of the Panda Federation  
 ### Sovereign AI • Local‑First Systems • Family‑Driven Automation
 
