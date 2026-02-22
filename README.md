@@ -221,25 +221,25 @@ Your Panda becomes part of the universe.
   <span style="margin: 20px;">
     <img src="Assets/Logo_Panda_Boy_Teenager.jpg" width="120" style="border: 3px solid #7b2ff7; border-radius: 12px;" />
     <br/>
-    <sub>Teen Boy Panda</sub>
+    <sub></sub>
   </span>
 
   <span style="margin: 20px;">
     <img src="Assets/Logo_Panda_Girl_Teenager.jpg" width="120" style="border: 3px solid #9d4bff; border-radius: 12px;" />
     <br/>
-    <sub>Teen Girl Panda</sub>
+    <sub></sub>
   </span>
 
   <span style="margin: 20px;">
     <img src="Assets/Logo_Panda_Child_Boy.jpg" width="120" style="border: 3px solid #5f1bd1; border-radius: 12px;" />
     <br/>
-    <sub>Child Boy Panda</sub>
+    <sub></sub>
   </span>
 
   <span style="margin: 20px;">
     <img src="Assets/Logo_Panda_Girl_Child_1_of_2.jpg" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
-    <sub>Child Girl Panda</sub>
+    <sub></sub>
   </span>
 
   <span style="margin: 20px;">
