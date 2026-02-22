@@ -103,3 +103,17 @@ Any support will go directly into improving the tools, upgrading hardware, and e
 ---
 
 *This profile is a living document — just like the projects it represents.*
+
+---
+
+## 💡 Future Support & Ecosystem Growth
+
+As the Spirit Panda ecosystem evolves, I plan to explore ethical, optional ways for people to support the project, including:
+
+- GitHub Sponsors  
+- Sovereign AI starter packs  
+- Build guides and tutorials  
+- Courses or workshops  
+- Consulting for local-first AI setups  
+
+Nothing here is active yet — this section simply marks the long-term vision of creating tools that empower others while supporting my family’s AI ecosystem.
