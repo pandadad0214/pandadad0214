@@ -207,13 +207,8 @@ Your Panda becomes part of the universe.
 
 ---
 
-# 🪶 <p align="center">
+# <p align="center">
   <img src="Assets/Main_Logo.jpg" width="90" />
   <br/>
   <i>“A sovereign AI future begins at home.”</i>
 </p>
-
-<p align="center">
-  <i>“A sovereign AI future begins at home.”</i>
-</p>
-
