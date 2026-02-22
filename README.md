@@ -62,16 +62,16 @@ These are the identity crests for the future family AI companions — each one p
 
 <table align="center">
   <tr>
-    <td align="center"><img src="assets/pandamom.png" width="110"/><br/>PandaMom</td>
-    <td align="center"><img src="assets/pandalily.png" width="110"/><br/>PandaLily</td>
-    <td align="center"><img src="assets/pandaboy-teen.png" width="110"/><br/>Teen Boy</td>
-    <td align="center"><img src="assets/pandagirl-teen.png" width="110"/><br/>Teen Girl</td>
+    <td align="center"><img src="Assets/Logo_Female_Panda_Adult.jpg" width="110"/><br/>PandaMom</td>
+    <td align="center"><img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="110"/><br/>PandaLily</td>
+    <td align="center"><img src="Assets/Logo_Panda_Boy_Teenager.jpg" width="110"/><br/>Teen Boy</td>
+    <td align="center"><img src="Assets/Logo_Panda_Girl_Teenager.jpg" width="110"/><br/>Teen Girl</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/pandaboy-child.png" width="110"/><br/>Child Boy</td>
-    <td align="center"><img src="assets/pandagirl-child1.png" width="110"/><br/>Child Girl 1</td>
-    <td align="center"><img src="assets/pandagirl-child2.png" width="110"/><br/>Child Girl 2</td>
-    <td align="center"><img src="assets/samurai-panda.png" width="110"/><br/>Samurai Panda</td>
+    <td align="center"><img src="Assets/Logo_Panda_Child_Boy.jpg" width="110"/><br/>Child Boy</td>
+    <td align="center"><img src="Assets/Logo_Panda_Girl_Child_1_of_2.jpg" width="110"/><br/>Child Girl 1</td>
+    <td align="center"><img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="110"/><br/>Child Girl 2</td>
+    <td align="center"><img src="Assets/Samurai Panda.jpg" width="110"/><br/>Samurai Panda</td>
   </tr>
 </table>
 
