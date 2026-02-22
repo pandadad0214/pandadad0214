@@ -34,7 +34,7 @@ This is a **universe**.
 
 # 🧑‍💻 Creator Crest  
 <p align="center">
-  <img src="assets/creator-crest.png" width="160" style="border-radius: 50%;" />
+  <img src="Assets/Samurai Panda.jpg" width="160" style="border-radius: 50%;" />
   <br/>
   <sub>Sean — Founder of the Panda Federation</sub>
 </p>
@@ -200,7 +200,7 @@ Your Panda becomes part of the universe.
 # 🪶 Final Federation Signature
 
 <p align="center">
-  <img src="assets/main-crest.png" width="110" />
+  <img src="Assets/Main_Logo.jpg" width="110" />
   <br/><br/>
   <i>“Build slow. Build steady. Build sovereign.”</i>
   <br/>
@@ -219,37 +219,37 @@ Your Panda becomes part of the universe.
 <p align="center">
 
   <span style="margin: 20px;">
-    <img src="assets/teen-boy.png" width="120" style="border: 3px solid #7b2ff7; border-radius: 12px;" />
+    <img src="Assets/Logo_Panda_Boy_Teenager.jpg" width="120" style="border: 3px solid #7b2ff7; border-radius: 12px;" />
     <br/>
     <sub>Teen Boy Panda</sub>
   </span>
 
   <span style="margin: 20px;">
-    <img src="assets/teen-girl.png" width="120" style="border: 3px solid #9d4bff; border-radius: 12px;" />
+    <img src="Assets/Logo_Panda_Girl_Teenager.jpg" width="120" style="border: 3px solid #9d4bff; border-radius: 12px;" />
     <br/>
     <sub>Teen Girl Panda</sub>
   </span>
 
   <span style="margin: 20px;">
-    <img src="assets/child-boy.png" width="120" style="border: 3px solid #5f1bd1; border-radius: 12px;" />
+    <img src="Assets/Logo_Panda_Child_Boy.jpg" width="120" style="border: 3px solid #5f1bd1; border-radius: 12px;" />
     <br/>
     <sub>Child Boy Panda</sub>
   </span>
 
   <span style="margin: 20px;">
-    <img src="assets/child-girl-1.png" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
+    <img src="Assets/Logo_Panda_Girl_Child_1_of_2.jpg" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
     <sub>Child Girl Panda</sub>
   </span>
 
   <span style="margin: 20px;">
-    <img src="assets/child-girl-2.png" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
+    <img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
     <sub>Child Girl Panda</sub>
   </span>
 
   <span style="margin: 20px;">
-    <img src="assets/samurai.png" width="120" style="border: 3px solid #b300ff; border-radius: 12px;" />
+    <img src="Assets/Samurai Panda.jpg" width="120" style="border: 3px solid #b300ff; border-radius: 12px;" />
     <br/>
     <sub>Samurai Panda (Legacy Crest)</sub>
   </span>
