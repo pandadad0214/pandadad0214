@@ -46,10 +46,10 @@ This is a **universe**.
 ### 🐼 **Spirit Panda** — Sovereign AI Companion  
 Identity‑driven, expressive, memory‑aware, and emotionally grounded.  
 <p>
-  <img src="https://img.shields.io/github/stars/pandadad0214/spirit-panda?style=flat&color=7b2ff7" />
-  <img src="https://img.shields.io/github/forks/pandadad0214/spirit-panda?style=flat&color=9d4bff" />
-  <img src="https://img.shields.io/github/license/pandadad0214/spirit-panda?style=flat&color=5f1bd1" />
-  <img src="https://img.shields.io/github/last-commit/pandadad0214/spirit-panda?style=flat&color=6a00ff" />
+  <img src="https://img.shields.io/github/stars/pandadad0214/spirit_panda?style=flat&color=7b2ff7" />
+  <img src="https://img.shields.io/github/forks/pandadad0214/spirit_panda?style=flat&color=9d4bff" />
+  <img src="https://img.shields.io/github/license/pandadad0214/spirit_panda?style=flat&color=5f1bd1" />
+  <img src="https://img.shields.io/github/last-commit/pandadad0214/spirit_panda?style=flat&color=6a00ff" />
 </p>
 
 ### 🛡️ **Watchdog Panda** — Uptime Guardian  
