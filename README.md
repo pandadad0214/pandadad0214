@@ -209,6 +209,8 @@ Your Panda becomes part of the universe.
 
 ---
 
+<!-- ✦ FINAL FEDERATION SIGNATURE ✦ -->
+
 <p align="center">
   <img src="assets/main-crest.png" width="110" />
   <br/><br/>
@@ -223,13 +225,101 @@ Your Panda becomes part of the universe.
   </i>
 </p>
 
-- Teen Boy Panda  
-- Teen Girl Panda  
-- Child Boy Panda  
-- Child Girl Panda (x2)  
-- Samurai Panda (legacy crest)
+---
+
+# 🐼 Family Crest Wall  
+<p align="center">
+
+  <!-- Teen Boy Panda -->
+  <span style="margin: 20px;">
+    <img src="assets/teen-boy.png" width="120" style="border: 3px solid #7b2ff7; border-radius: 12px;" />
+    <br/>
+    <sub>Teen Boy Panda</sub>
+  </span>
+
+  <!-- Teen Girl Panda -->
+  <span style="margin: 20px;">
+    <img src="assets/teen-girl.png" width="120" style="border: 3px solid #9d4bff; border-radius: 12px;" />
+    <br/>
+    <sub>Teen Girl Panda</sub>
+  </span>
+
+  <!-- Child Boy Panda -->
+  <span style="margin: 20px;">
+    <img src="assets/child-boy.png" width="120" style="border: 3px solid #5f1bd1; border-radius: 12px;" />
+    <br/>
+    <sub>Child Boy Panda</sub>
+  </span>
+
+  <!-- Child Girl Panda 1 -->
+  <span style="margin: 20px;">
+    <img src="assets/child-girl-1.png" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
+    <br/>
+    <sub>Child Girl Panda</sub>
+  </span>
+
+  <!-- Child Girl Panda 2 -->
+  <span style="margin: 20px;">
+    <img src="assets/child-girl-2.png" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
+    <br/>
+    <sub>Child Girl Panda</sub>
+  </span>
+
+  <!-- Samurai Panda -->
+  <span style="margin: 20px;">
+    <img src="assets/samurai.png" width="120" style="border: 3px solid #b300ff; border-radius: 12px;" />
+    <br/>
+    <sub>Samurai Panda (Legacy Crest)</sub>
+  </span>
+
+</p>
 
 ---
 
-# 🏯 Panda Federation Architecture
+# 🌌 Meet the Pandas (Hover Labels)
+
+<p align="center">
+
+  <span title="Teen Boy Panda — Logic‑driven, steady, future mentor">
+    <img src="assets/teen-boy.png" width="90" style="margin: 10px;" />
+  </span>
+
+  <span title="Teen Girl Panda — Empathic, expressive, growth‑focused">
+    <img src="assets/teen-girl.png" width="90" style="margin: 10px;" />
+  </span>
+
+  <span title="Child Boy Panda — Curious, energetic, guided companion">
+    <img src="assets/child-boy.png" width="90" style="margin: 10px;" />
+  </span>
+
+  <span title="Child Girl Panda — Gentle, creative, parent‑aligned">
+    <img src="assets/child-girl-1.png" width="90" style="margin: 10px;" />
+  </span>
+
+  <span title="Child Girl Panda — Gentle, creative, parent‑aligned">
+    <img src="assets/child-girl-2.png" width="90" style="margin: 10px;" />
+  </span>
+
+  <span title="Samurai Panda — Legacy protector, ancient crest">
+    <img src="assets/samurai.png" width="90" style="margin: 10px;" />
+  </span>
+
+</p>
+
+---
+
+# 🌳 Federation Family Tree (Diagram)
+PandaDad (Founder)
+│
+┌────────────────────┼────────────────────┐
+│                    │                    │
+PandaMom            Teen Boy Panda       Teen Girl Panda
+│                    │                    │
+├──────────────┬────┘          ┌─────────┘
+│              │               │
+Child Boy      Child Girl 1     Child Girl 2
+│
+Samurai Panda (Legacy Line)
+
+---
 
