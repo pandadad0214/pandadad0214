@@ -218,72 +218,52 @@ Your Panda becomes part of the universe.
 # 🐼 Family Crest Wall  
 <p align="center">
 
-  <span style="margin: 20px;">
-    <img src="Assets/Logo_Panda_Boy_Teenager.jpg" width="120" style="border: 3px solid #7b2ff7; border-radius: 12px;" />
+  <!-- Teen Boy Panda -->
+  <span style="display: inline-block; margin: 20px; text-align: center;">
+    <img src="Assets/Logo_Panda_Boy_Teenager.jpg" width="140" 
+         style="border: 3px solid #7b2ff7; border-radius: 12px;" />
     <br/>
-    <sub></sub>
+    <sub>Teen Boy Panda</sub>
   </span>
 
-  <span style="margin: 20px;">
-    <img src="Assets/Logo_Panda_Girl_Teenager.jpg" width="120" style="border: 3px solid #9d4bff; border-radius: 12px;" />
+  <!-- Teen Girl Panda -->
+  <span style="display: inline-block; margin: 20px; text-align: center;">
+    <img src="Assets/Logo_Panda_Girl_Teenager.jpg" width="140" 
+         style="border: 3px solid #9d4bff; border-radius: 12px;" />
     <br/>
-    <sub></sub>
+    <sub>Teen Girl Panda</sub>
   </span>
 
-  <span style="margin: 20px;">
-    <img src="Assets/Logo_Panda_Child_Boy.jpg" width="120" style="border: 3px solid #5f1bd1; border-radius: 12px;" />
+  <!-- Child Boy Panda -->
+  <span style="display: inline-block; margin: 20px; text-align: center;">
+    <img src="Assets/Logo_Panda_Child_Boy.jpg" width="140" 
+         style="border: 3px solid #5f1bd1; border-radius: 12px;" />
     <br/>
-    <sub></sub>
+    <sub>Child Boy Panda</sub>
   </span>
 
-  <span style="margin: 20px;">
-    <img src="Assets/Logo_Panda_Girl_Child_1_of_2.jpg" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
+  <!-- Child Girl Panda 1 -->
+  <span style="display: inline-block; margin: 20px; text-align: center;">
+    <img src="Assets/Logo_Panda_Girl_Child_1_of_2.jpg" width="140" 
+         style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
-    <sub></sub>
+    <sub>Child Girl Panda</sub>
   </span>
 
-  <span style="margin: 20px;">
-    <img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
+  <!-- Child Girl Panda 2 -->
+  <span style="display: inline-block; margin: 20px; text-align: center;">
+    <img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="140" 
+         style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
-    <sub></sub>
+    <sub>Child Girl Panda</sub>
   </span>
 
-  <span style="margin: 20px;">
-    <img src="Assets/Samurai Panda.jpg" width="120" style="border: 3px solid #b300ff; border-radius: 12px;" />
+  <!-- Samurai Panda -->
+  <span style="display: inline-block; margin: 20px; text-align: center;">
+    <img src="Assets/Samurai Panda.jpg" width="140" 
+         style="border: 3px solid #b300ff; border-radius: 12px;" />
     <br/>
-    <sub> </sub>
-  </span>
-
-</p>
-
----
-
-# 🌌 Meet the Pandas (Hover Labels)
-
-<p align="center">
-
-  <span title="Teen Boy Panda — Logic‑driven, steady, future mentor">
-    <img src="assets/teen-boy.png" width="90" style="margin: 10px;" />
-  </span>
-
-  <span title="Teen Girl Panda — Empathic, expressive, growth‑focused">
-    <img src="assets/teen-girl.png" width="90" style="margin: 10px;" />
-  </span>
-
-  <span title="Child Boy Panda — Curious, energetic, guided companion">
-    <img src="assets/child-boy.png" width="90" style="margin: 10px;" />
-  </span>
-
-  <span title="Child Girl Panda — Gentle, creative, parent‑aligned">
-    <img src="assets/child-girl-1.png" width="90" style="margin: 10px;" />
-  </span>
-
-  <span title="Child Girl Panda — Gentle, creative, parent‑aligned">
-    <img src="assets/child-girl-2.png" width="90" style="margin: 10px;" />
-  </span>
-
-  <span title="Samurai Panda — Legacy protector, ancient crest">
-    <img src="assets/samurai.png" width="90" style="margin: 10px;" />
+    <sub>Samurai Panda (Legacy Crest)</sub>
   </span>
 
 </p>
