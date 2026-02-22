@@ -245,13 +245,13 @@ Your Panda becomes part of the universe.
   <span style="margin: 20px;">
     <img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="120" style="border: 3px solid #6a00ff; border-radius: 12px;" />
     <br/>
-    <sub>Child Girl Panda</sub>
+    <sub></sub>
   </span>
 
   <span style="margin: 20px;">
     <img src="Assets/Samurai Panda.jpg" width="120" style="border: 3px solid #b300ff; border-radius: 12px;" />
     <br/>
-    <sub>Samurai Panda (Legacy Crest)</sub>
+    <sub> </sub>
   </span>
 
 </p>
