@@ -215,39 +215,30 @@ Your Panda becomes part of the universe.
 
 ---
 
-# 🐼 Family Crest Wall  
+# 📊 GitHub Stats (Auto‑Switching)
+
 <p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true" />
+  </picture>
+</p>
 
-  <span style="display: inline-block; margin: 20px;">
-    <img src="Assets/Logo_Panda_Boy_Teenager.jpg" width="140"
-         style="border: 3px solid #7b2ff7; border-radius: 12px;" />
-  </span>
-
-  <span style="display: inline-block; margin: 20px;">
-    <img src="Assets/Logo_Panda_Girl_Teenager.jpg" width="140"
-         style="border: 3px solid #9d4bff; border-radius: 12px;" />
-  </span>
-
-  <span style="display: inline-block; margin: 20px;">
-    <img src="Assets/Logo_Panda_Child_Boy.jpg" width="140"
-         style="border: 3px solid #5f1bd1; border-radius: 12px;" />
-  </span>
-
-  <span style="display: inline-block; margin: 20px;">
-    <img src="Assets/Logo_Panda_Girl_Child_1_of_2.jpg" width="140"
-         style="border: 3px solid #6a00ff; border-radius: 12px;" />
-  </span>
-
-  <span style="display: inline-block; margin: 20px;">
-    <img src="Assets/Logo_Panda_Girl_Child_2_of_2.jpg" width="140"
-         style="border: 3px solid #6a00ff; border-radius: 12px;" />
-  </span>
-
-  <span style="display: inline-block; margin: 20px;">
-    <img src="Assets/Samurai Panda.jpg" width="140"
-         style="border: 3px solid #b300ff; border-radius: 12px;" />
-  </span>
-
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214" />
+  </picture>
 </p>
 
 ---
