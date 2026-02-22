@@ -203,7 +203,7 @@ Your Panda becomes part of the universe.
     <source 
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214" />
+    <img src="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg" />
   </picture>
 </p>
 
