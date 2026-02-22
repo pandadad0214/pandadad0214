@@ -175,15 +175,7 @@ Your Panda becomes part of the universe.
 # 📊 GitHub Stats (Auto‑Switching)
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true" />
-  </picture>
+  <img src="Assets/Small_Stats_Placeholder.jpg" width="420" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
