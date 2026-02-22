@@ -37,17 +37,17 @@ Everything here is crafted with clarity, resilience, and ethical autonomy in min
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/spirit-panda.png" width="150"/><br/>
+      <img src="Assets/Logo_Male_Panda_Adult.jpg" width="150"/><br/>
       <b>Spirit Panda</b><br/>
       Sovereign AI Companion
     </td>
     <td align="center">
-      <img src="assets/watchdog-panda.png" width="150"/><br/>
+      <img src="Assets/Watchdog_Logo.jpg" width="150"/><br/>
       <b>Watchdog Panda</b><br/>
       Resilience Guardian
     </td>
     <td align="center">
-      <img src="assets/steel-panda.png" width="150"/><br/>
+      <img src="Assets/Samurai Panda.jpg" width="150"/><br/>
       <b>Steel Panda</b><br/>
       Operational Steward
     </td>
