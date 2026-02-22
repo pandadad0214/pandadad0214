@@ -207,8 +207,18 @@ Your Panda becomes part of the universe.
 
 ---
 
-# <p align="center">
-  <img src="Assets/Main_Logo.jpg" width="90" />
+---
+
+<p align="center">
+  <img src="Assets/Main_Logo.jpg" width="110" />
+  <br/><br/>
+  <i>“Build slow. Build steady. Build sovereign.”</i>
   <br/>
-  <i>“A sovereign AI future begins at home.”</i>
+  <sub style="opacity: 0.8;">— The Panda Oath</sub>
+</p>
+
+<p align="center">
+  <i style="font-size: 1.05rem; color: #8a4bff;">
+    ✦ In the glow of the Aurora Spirit, we build what endures ✦
+  </i>
 </p>
