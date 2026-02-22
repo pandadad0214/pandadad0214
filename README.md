@@ -175,7 +175,7 @@ Your Panda becomes part of the universe.
 # 📊 GitHub Stats (Auto‑Switching)
 
 <p align="center">
-  <img src="Assets/Small_Stats_Placeholder.jpg" width="420" style="border-radius: 12px;" />
+  <img src="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg" width="420" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
