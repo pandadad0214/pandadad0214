@@ -54,3 +54,162 @@ Runs tasks, maintains systems, and performs command workflows.
 ---
 
 # 🪵 Bamboo Divider  
+
+---
+
+# 👨‍👩‍👧‍👦 Family Lineup  
+*(Each with their own crest and future AI personality)*
+
+- PandaMom  
+- PandaLily  
+- Teen Boy Panda  
+- Teen Girl Panda  
+- Child Boy Panda  
+- Child Girl Panda (x2)  
+- Samurai Panda (legacy crest)
+
+---
+
+# 🏯 Panda Federation Architecture
+
+┌────────────────────┐
+│    Watchdog Panda   │
+│  (Uptime Guardian)  │
+└──────────┬─────────┘
+│
+│ monitors
+▼
+┌───────────────────────────────┐
+│          Spirit Panda          │
+│   (Sovereign AI Companion)     │
+└──────────┬──────────┬─────────┘
+│          │
+│ triggers │ tasks
+▼          ▼
+┌───────────────────────────────┐
+│          Steel Panda           │
+│   (Operational Task Runner)    │
+└───────────────────────────────┘
+
+**Spirit thinks.  
+Watchdog watches.  
+Steel acts.**
+
+---
+
+# 🧭 Roadmap
+
+### 🐼 Core Agents (Complete)
+- Spirit Panda  
+- Watchdog Panda  
+- Steel Panda  
+
+### 🐾 Family Agents (In Development)
+- PandaMom  
+- PandaLily  
+- Teen Boy Panda  
+- Teen Girl Panda  
+- Child Pandas  
+
+### 🌐 Federation Infrastructure
+- Shared memory schema  
+- Cross‑agent messaging  
+- Federation heartbeat  
+- Local knowledge vault  
+
+### 📣 Integrations
+- Telegram  
+- Discord  
+- Local dashboard  
+- Offline‑first UI  
+
+### 📚 Public Release
+- Architecture docs  
+- Setup guides  
+- Templates  
+- Federation website  
+
+---
+
+# 🧘 Philosophy
+
+The Panda Federation is built on three pillars:
+
+### 🐼 Sovereignty  
+Local‑first. Private. Human‑controlled.
+
+### 🐾 Family  
+Technology should strengthen families.
+
+### 🎋 Balance  
+Calm. Grounded. Intentional.
+
+---
+
+# ✨ Federation Highlights
+
+- 100% local‑first AI ecosystem  
+- Modular architecture  
+- Distinct identities  
+- Family‑aligned design  
+- Open‑source and extensible  
+- Built with love, lore, and legacy  
+
+---
+
+# 🐉 The Panda Oath
+
+“Build slow.  
+Build steady.  
+Build sovereign.”
+
+---
+
+# 🌌 Join the Panda Federation
+
+To join the Federation:
+
+1. Fork any Panda repo  
+2. Add your own crest  
+3. Define your agent’s purpose  
+4. Follow the Panda Oath  
+5. Build sovereign, local‑first AI  
+
+Your Panda becomes part of the universe.
+
+---
+
+# 📊 GitHub Stats (Auto‑Switching)
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pandadad0214&show_icons=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214" />
+  </picture>
+</p>
+
+---
+
+# 🪶 Signature
+
+<p align="center">
+  <i>“A sovereign AI future begins at home.”</i>
+</p>
+
