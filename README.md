@@ -1,34 +1,22 @@
 <p align="center">
-  <img src="Assets/Main_Logo.jpg" width="260" />
+  <img src="Assets/Main_Logo.jpg" width="240" alt="Panda Federation logo" />
 </p>
 
+<h1 align="center">🐼 The Panda Federation</h1>
+<p align="center"><b>Self-healing, local-first AI systems and data tools that run themselves.</b></p>
+
 <p align="center">
-
-  <!-- Core Identity Badges -->
-  <img src="https://img.shields.io/badge/Local‑First-AI-7b2ff7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Privacy‑Focused-5f1bd1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Family‑Aligned-9d4bff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status‑Active-6a00ff?style=for-the-badge" />
-
-  <br/>
-
-  <!-- Certification / Ecosystem Badges -->
-  <img src="https://img.shields.io/badge/License-MIT-7b2ff7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source‑Certified-9d4bff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Panda%20Federation‑Ecosystem-5f1bd1?style=flat-square" />
-
+  <img src="https://img.shields.io/badge/Local--First-AI-0f1420?style=for-the-badge&labelColor=7dd3a8" />
+  <img src="https://img.shields.io/badge/Self--Healing-Systems-0f1420?style=for-the-badge&labelColor=7dd3a8" />
+  <img src="https://img.shields.io/badge/Human--Checked-Results-0f1420?style=for-the-badge&labelColor=7dd3a8" />
+  <img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
 </p>
 
 ---
 
-# 🐼 The Panda Federation  
-### Sovereign AI • Local‑First Architecture • Family‑Aligned Design
+The Panda Federation is a family of small, dependable AI agents and data tools. Each module has one job, a name and a crest, and the job of keeping itself running. Agents watch other agents, failures get caught and repaired, and a human checks anything that matters before it ships.
 
-Welcome to the Panda Federation — a fully sovereign, local‑first AI ecosystem built for resilience, identity, and family‑centric automation.  
-Every Panda agent has a role, a crest, and a purpose.
-
-This is not a single project.  
-This is a **universe**.
+**Spirit thinks. Watchdog watches. Steel acts.**
 
 ---
 
@@ -41,61 +29,67 @@ This is a **universe**.
 
 ---
 
-# 🌌 Core Agents
+## 🚀 Live tools
 
-### 🐼 **Spirit Panda** — Sovereign AI Companion  
-Identity‑driven, expressive, memory‑aware, and emotionally grounded.  
-<p>
-  <img src="https://img.shields.io/github/stars/pandadad0214/spirit_panda?style=flat&color=7b2ff7" />
-  <img src="https://img.shields.io/github/forks/pandadad0214/spirit_panda?style=flat&color=9d4bff" />
-  <img src="https://img.shields.io/github/license/pandadad0214/spirit_panda?style=flat&color=5f1bd1" />
-  <img src="https://img.shields.io/github/last-commit/pandadad0214/spirit_panda?style=flat&color=6a00ff" />
-</p>
-
-### 🛡️ **Watchdog Panda** — Uptime Guardian  
-<p>
-  <img src="https://img.shields.io/github/stars/pandadad0214/Watchdog_Panda?style=flat&color=7b2ff7" />
-  <img src="https://img.shields.io/github/forks/pandadad0214/Watchdog_Panda?style=flat&color=9d4bff" />
-  <img src="https://img.shields.io/github/license/pandadad0214/Watchdog_Panda?style=flat&color=5f1bd1" />
-  <img src="https://img.shields.io/github/last-commit/pandadad0214/Watchdog_Panda?style=flat&color=6a00ff" />
-</p>
-
-### ⚙️ **Steel Panda** — Operational Executor  
-Runs tasks, maintains systems, and performs command workflows.
-
-```
-                 ┌────────────────────┐
-                 │    Watchdog Panda   │
-                 │  (Uptime Guardian)  │
-                 └──────────┬─────────┘
-                            │
-                            │ monitors
-                            ▼
-        ┌───────────────────────────────┐
-        │          Spirit Panda          │
-        │   (Sovereign AI Companion)     │
-        └──────────┬──────────┬─────────┘
-                   │          │
-                   │ triggers │ tasks
-                   ▼          ▼
-        ┌───────────────────────────────┐
-        │          Steel Panda           │
-        │   (Operational Task Runner)    │
-        └───────────────────────────────┘
-```
-
-**Spirit thinks.  
-Watchdog watches.  
-Steel acts.**
+| Tool | What it does | Try it |
+|---|---|---|
+| 📚 **Reference Checker** | Finds fake or AI-hallucinated citations, miscited details and retracted papers in any bibliography. Uses Crossref, Retraction Watch and OpenAlex. $0.01 per reference. | [apify.com/pandadad0214/reference-checker](https://apify.com/pandadad0214/reference-checker) |
 
 ---
 
-# 🧭 Roadmap
+## 🧭 Focus areas
 
-### 🐼 Core Agents (Complete)
-- Spirit Panda  
-- Watchdog Panda  
-- Steel Panda  
+- **Self-healing systems**: services that detect their own failures, restart, roll back and report.
+- **Agents that monitor agents**: watchdogs, heartbeats and supervisors that keep other AI agents honest and online.
+- **Data tools**: clean, verifiable data pipelines, from citation checks to tidy spreadsheets.
+- **Local-first and private**: runs on your own hardware where it can, with you in control.
+
+---
+
+## 🌌 Core agents
+
+### 🐼 Spirit Panda: the companion
+Identity-driven, memory-aware and grounded.
+<p>
+  <img src="https://img.shields.io/github/last-commit/pandadad0214/spirit_panda?style=flat&color=7dd3a8&label=last%20commit" />
+</p>
+
+### 🛡️ Watchdog Panda: the uptime guardian
+Monitors processes and agents, and brings them back when they fall.
+<p>
+  <img src="https://img.shields.io/github/last-commit/pandadad0214/Watchdog_Panda?style=flat&color=7dd3a8&label=last%20commit" />
+</p>
+
+### ⚙️ Steel Panda: the executor
+Runs tasks, maintains systems and carries out command workflows.
+
+```
+              ┌──────────────────────┐
+              │    Watchdog Panda    │
+              │  (uptime guardian)   │
+              └──────────┬───────────┘
+                         │ monitors
+                         ▼
+              ┌──────────────────────┐
+              │     Spirit Panda     │
+              │     (companion)      │
+              └──────────┬───────────┘
+                         │ triggers tasks
+                         ▼
+              ┌──────────────────────┐
+              │     Steel Panda      │
+              │      (executor)      │
+              └──────────────────────┘
+```
+
+---
+
+## 🔭 What's next
+
+- More research-integrity and data tools on the Apify Store
+- Citation formatting and verification services, human-checked
+- Federation heartbeat: one dashboard where every Panda agent reports its health
+- Open templates for self-healing agents and watchdogs
 
 ### 🐾 Family Agents (In Development)
 - PandaMom  
@@ -104,108 +98,25 @@ Steel acts.**
 - Teen Girl Panda  
 - Child Pandas  
 
-### 🌐 Federation Infrastructure
-- Shared memory schema  
-- Cross‑agent messaging  
-- Federation heartbeat  
-- Local knowledge vault  
-
-### 📣 Integrations
-- Telegram  
-- Discord  
-- Local dashboard  
-- Offline‑first UI  
-
-### 📚 Public Release
-- Architecture docs  
-- Setup guides  
-- Templates  
-- Federation website  
-
 ---
 
-# 🧘 Philosophy
+## 🧘 Philosophy
 
-The Panda Federation is built on three pillars:
-
-### 🐼 Sovereignty  
-Local‑first. Private. Human‑controlled.
+- **Sovereignty**: local-first, private, human-controlled.
+- **Reliability**: tools that keep running and tell you when they can't.
+- **Balance**: calm, grounded, intentional.
 
 ### 🐾 Family  
 Technology should strengthen families.
 
-### 🎋 Balance  
-Calm. Grounded. Intentional.
-
 ---
-
-# ✨ Federation Highlights
-
-- 100% local‑first AI ecosystem  
-- Modular architecture  
-- Distinct identities  
-- Family‑aligned design  
-- Open‑source and extensible  
-- Built with love, lore, and legacy  
-
----
-
-# 🐉 The Panda Oath
-
-“Build slow.  
-Build steady.  
-Build sovereign.”
-
----
-
-# 🌌 Join the Panda Federation
-
-To join the Federation:
-
-1. Fork any Panda repo  
-2. Add your own crest  
-3. Define your agent’s purpose  
-4. Follow the Panda Oath  
-5. Build sovereign, local‑first AI  
-
-Your Panda becomes part of the universe.
-
----
-
-# 📊 GitHub Stats (Auto‑Switching)
 
 <p align="center">
-  <img src="Assets/doc_2026-02-22_01-05-16.trashed-1773714119-download (1).jpeg" width="420" style="border-radius: 12px;" />
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandadad0214" />
-  </picture>
-</p>
-
----
-
-# 🪶 Final Federation Signature
-
-<p align="center">
-  <img src="Assets/Main_Logo.jpg" width="110" />
+  <img src="Assets/Main_Logo.jpg" width="100" alt="Panda Federation crest" />
   <br/><br/>
   <i>“Build slow. Build steady. Build sovereign.”</i>
   <br/>
-  <sub style="opacity: 0.8;">— The Panda Oath</sub>
-</p>
-
-<p align="center">
-  <i style="font-size: 1.05rem; color: #8a4bff;">
-    ✦ In the glow of the Aurora Spirit, we build what endures ✦
-  </i>
+  <sub>The Panda Oath · Sean, founder of the Panda Federation</sub>
 </p>
 
 ---
@@ -225,5 +136,3 @@ Child Boy      Child Girl 1     Child Girl 2
 │
 Samurai Panda (Legacy Line)
 ```
-
----
