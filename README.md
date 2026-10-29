@@ -20,6 +20,15 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 ---
 
+# 🧑‍💻 Creator Crest  
+<p align="center">
+  <img src="Assets/Samurai Panda.jpg" width="160" style="border-radius: 50%;" />
+  <br/>
+  <sub>Sean — Founder of the Panda Federation</sub>
+</p>
+
+---
+
 ## 🚀 Live tools
 
 | Tool | What it does | Try it |
@@ -82,6 +91,13 @@ Runs tasks, maintains systems and carries out command workflows.
 - Federation heartbeat: one dashboard where every Panda agent reports its health
 - Open templates for self-healing agents and watchdogs
 
+### 🐾 Family Agents (In Development)
+- PandaMom  
+- PandaLily  
+- Teen Boy Panda  
+- Teen Girl Panda  
+- Child Pandas  
+
 ---
 
 ## 🧘 Philosophy
@@ -89,6 +105,9 @@ Runs tasks, maintains systems and carries out command workflows.
 - **Sovereignty**: local-first, private, human-controlled.
 - **Reliability**: tools that keep running and tell you when they can't.
 - **Balance**: calm, grounded, intentional.
+
+### 🐾 Family  
+Technology should strengthen families.
 
 ---
 
@@ -99,3 +118,21 @@ Runs tasks, maintains systems and carries out command workflows.
   <br/>
   <sub>The Panda Oath · Sean, founder of the Panda Federation</sub>
 </p>
+
+---
+
+# 🌳 Federation Family Tree (Diagram)
+
+```
+PandaDad (Founder)
+│
+┌────────────────────┼────────────────────┐
+│                    │                    │
+PandaMom            Teen Boy Panda       Teen Girl Panda
+│                    │                    │
+├──────────────┬────┘          ┌─────────┘
+│              │               │
+Child Boy      Child Girl 1     Child Girl 2
+│
+Samurai Panda (Legacy Line)
+```
