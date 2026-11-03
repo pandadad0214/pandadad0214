@@ -31,8 +31,24 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 ## 🚀 Live tools
 
-| Tool | What it does | Try it |
-|---|---|---|
+**[Panda Federation Tools](https://github.com/pandadad0214/panda-federation-tools)**: an open-source MCP server that gives Claude, Cursor, VS Code or any MCP client 18 research and public-data tools. Pay per result on [Apify](https://apify.com/pandadad0214), with a hard spending cap on every call.
+
+<p>
+  <a href="https://github.com/pandadad0214/panda-federation-tools"><img src="https://img.shields.io/github/v/release/pandadad0214/panda-federation-tools?style=flat&color=7dd3a8&label=MCP%20server" /></a>
+  <a href="https://github.com/pandadad0214/panda-federation-tools/actions/workflows/ci.yml"><img src="https://github.com/pandadad0214/panda-federation-tools/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://registry.modelcontextprotocol.io/v0/servers?search=io.github.pandadad0214"><img src="https://img.shields.io/badge/MCP_Registry-listed-blue" /></a>
+</p>
+
+| Area | Tools (Apify Store) |
+|---|---|
+| 📚 Research and citations | [Reference Checker](https://apify.com/pandadad0214/reference-checker) (fake, AI-hallucinated and retracted citations) · [Citation Formatter](https://apify.com/pandadad0214/citation-formatter) · [Literature Search](https://apify.com/pandadad0214/literature-search) · [PubMed Evidence Table](https://apify.com/pandadad0214/pubmed-evidence-table) · [Researcher & Expert Finder](https://apify.com/pandadad0214/researcher-expert-finder) · [Academic Research MCP Server](https://apify.com/pandadad0214/panda-research-mcp) |
+| 🏛️ Grants and government data | [Grants Finder](https://apify.com/pandadad0214/grants-finder) (Grants.gov, NIH, NSF) · [Federal Contract Finder](https://apify.com/pandadad0214/federal-contract-finder) (USAspending) · [NPI Provider Lists](https://apify.com/pandadad0214/npi-provider-lists) · [Trucking Company Leads](https://apify.com/pandadad0214/trucking-company-leads) (FMCSA) |
+| 🎯 B2B leads and signals | [Company Hiring Signals](https://apify.com/pandadad0214/company-hiring-signals) · [Company Team Finder](https://apify.com/pandadad0214/company-team-finder) · [Company Website Enricher](https://apify.com/pandadad0214/company-website-enricher) · [Local Business Leads](https://apify.com/pandadad0214/local-business-leads) (OpenStreetMap) · [Podcast Leads Finder](https://apify.com/pandadad0214/podcast-leads-finder) |
+| 🔎 Audits and monitoring | [Email Domain Security Checker](https://apify.com/pandadad0214/email-domain-security-checker) (SPF, DKIM, DMARC) · [AI Search & SEO Audit](https://apify.com/pandadad0214/ai-search-seo-audit) · [Topic Trends Tracker](https://apify.com/pandadad0214/topic-trends-tracker) · [PDF Table Extractor](https://apify.com/pandadad0214/pdf-table-extractor) |
+
+Official, free data sources only (Crossref, OpenAlex, PubMed, Grants.gov, USAspending, NPI, FMCSA, OpenStreetMap, public DNS). No logins, no paywalls, no LinkedIn scraping.
+
+---|---|---|
 | 📚 **Reference Checker** | Finds fake or AI-hallucinated citations, miscited details and retracted papers in any bibliography. Uses Crossref, Retraction Watch and OpenAlex. $0.01 per reference. | [apify.com/pandadad0214/reference-checker](https://apify.com/pandadad0214/reference-checker) |
 
 ---
