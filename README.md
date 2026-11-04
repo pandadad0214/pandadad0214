@@ -20,16 +20,13 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 ---
 
-# 🧑‍💻 Creator Crest  
-<p align="center">
-  <img src="Assets/Samurai Panda.jpg" width="160" style="border-radius: 50%;" />
-  <br/>
-  <sub>Sean — Founder of the Panda Federation</sub>
-</p>
-
----
-
 ## 🚀 Live tools
+
+**Use them now:**
+- **In Claude, Cursor or Copilot:** `uvx panda-federation-tools` ([setup for each app](https://github.com/pandadad0214/panda-federation-tools#install--use), or the [latest Release](https://github.com/pandadad0214/panda-federation-tools/releases/latest) with a one-click Claude Desktop file)
+- **In your browser, no install:** any tool below on the [Apify Store](https://apify.com/pandadad0214)
+- **Free:** [Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner) and its public [watch log](https://github.com/pandadad0214/hidden-ai-instructions-watch)
+- **Small scripts:** [Watchdog Panda](https://github.com/pandadad0214/Watchdog_Panda) (restarts a process when it stops) and [Steel Panda](https://github.com/pandadad0214/Steel_Panda) (runs a folder of tasks), one-command installs
 
 **[Panda Federation Tools](https://github.com/pandadad0214/panda-federation-tools)**: an open-source MCP server that gives Claude, Cursor, VS Code or any MCP client 18 research and public-data tools. Pay per result on [Apify](https://apify.com/pandadad0214), with a hard spending cap on every call.
 
@@ -48,8 +45,15 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 Official, free data sources only (Crossref, OpenAlex, PubMed, Grants.gov, USAspending, NPI, FMCSA, OpenStreetMap, public DNS). No logins, no paywalls, no LinkedIn scraping.
 
----|---|---|
-| 📚 **Reference Checker** | Finds fake or AI-hallucinated citations, miscited details and retracted papers in any bibliography. Uses Crossref, Retraction Watch and OpenAlex. $0.01 per reference. | [apify.com/pandadad0214/reference-checker](https://apify.com/pandadad0214/reference-checker) |
+
+---
+
+# 🧑‍💻 Creator Crest  
+<p align="center">
+  <img src="Assets/Samurai Panda.jpg" width="160" style="border-radius: 50%;" />
+  <br/>
+  <sub>Sean — Founder of the Panda Federation</sub>
+</p>
 
 ---
 
