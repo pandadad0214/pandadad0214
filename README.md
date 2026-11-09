@@ -20,13 +20,14 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 ---
 
-## 🚀 Live tools
+## How to use this
 
-**Use them now:**
-- **In Claude, Cursor or Copilot:** `uvx panda-federation-tools` ([setup for each app](https://github.com/pandadad0214/panda-federation-tools#install--use), or the [latest Release](https://github.com/pandadad0214/panda-federation-tools/releases/latest) with a one-click Claude Desktop file)
+Pick the path that fits:
+- **In Claude, Cursor or any MCP client:** `uvx --from panda-federation-tools panda-research-tools` (or `panda-public-funding-tools`, `panda-leads-tools`, `panda-web-security-tools`); [setup for each app](https://github.com/pandadad0214/panda-federation-tools#how-to-use-this), or the [latest Release](https://github.com/pandadad0214/panda-federation-tools/releases/latest) with a one-click Claude Desktop file
 - **In your browser, no install:** any tool below on the [Apify Store](https://apify.com/pandadad0214)
 - **Free:** [Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner) and its public [watch log](https://github.com/pandadad0214/hidden-ai-instructions-watch)
 - **Small scripts:** [Watchdog Panda](https://github.com/pandadad0214/Watchdog_Panda) (restarts a process when it stops) and [Steel Panda](https://github.com/pandadad0214/Steel_Panda) (runs a folder of tasks), one-command installs
+- **Several bots on one computer:** [Quiet File Team](https://github.com/pandadad0214/quiet-file-team), a free Bash kit for file-based handoffs and quiet idle runs, plus its free [MCP companion](https://github.com/pandadad0214/quiet-file-team-mcp)
 - **Manual Remake:** [Apify Store](https://apify.com/pandadad0214/manual-remake) · [GitHub](https://github.com/pandadad0214/manual-remake) — rewrite a confusing manual (PDF or photos) into a clear English print PDF; free sample on the Store
 
 **[Panda Federation Tools](https://github.com/pandadad0214/panda-federation-tools)**: an open-source MCP server that gives Claude, Cursor, VS Code or any MCP client 36 research and public-data tools, in four focused domain servers. Pay per result on [Apify](https://apify.com/pandadad0214), with a hard spending cap on every call.
@@ -43,6 +44,14 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 | 🏛️ Grants and government data | [Grants Finder](https://apify.com/pandadad0214/grants-finder) (Grants.gov, NIH, NSF) · [Federal Contract Finder](https://apify.com/pandadad0214/federal-contract-finder) (USAspending) · [NPI Provider Lists](https://apify.com/pandadad0214/npi-provider-lists) · [Trucking Company Leads](https://apify.com/pandadad0214/trucking-company-leads) (FMCSA) · [SBIR/STTR Topic Radar](https://apify.com/pandadad0214/sbir-sttr-topic-radar) · [SEC Financials to Excel](https://apify.com/pandadad0214/sec-financials-excel) (EDGAR XBRL) · [Federal Register Monitor](https://apify.com/pandadad0214/federal-register-monitor) · [Product Recall Monitor](https://apify.com/pandadad0214/product-recall-monitor) (FDA + CPSC) · [VIN Decoder + Recalls](https://apify.com/pandadad0214/vin-decoder-recalls) (NHTSA) |
 | 🎯 B2B leads and signals | [Company Hiring Signals](https://apify.com/pandadad0214/company-hiring-signals) · [Company Team Finder](https://apify.com/pandadad0214/company-team-finder) · [Company Website Enricher](https://apify.com/pandadad0214/company-website-enricher) · [Local Business Leads](https://apify.com/pandadad0214/local-business-leads) (OpenStreetMap) · [Podcast Leads Finder](https://apify.com/pandadad0214/podcast-leads-finder) · [Clinical Trial Leads](https://apify.com/pandadad0214/clinical-trial-leads) (ClinicalTrials.gov) · [Nonprofit Leads (IRS)](https://apify.com/pandadad0214/nonprofit-leads-irs) · [Building Permit Leads](https://apify.com/pandadad0214/building-permit-leads) (8 US cities) · [Florida New Business Leads](https://apify.com/pandadad0214/florida-new-business-leads) (Sunbiz) · [Texas New Business Leads](https://apify.com/pandadad0214/texas-new-business-leads) (Comptroller) · [New York New Business Leads](https://apify.com/pandadad0214/new-york-new-business-leads) (DOS) · [H-1B LCA Sponsor Leads](https://apify.com/pandadad0214/h1b-lca-sponsor-leads) (DOL) · [EU TED Tenders](https://apify.com/pandadad0214/eu-ted-tenders) |
 | 🔎 Audits and monitoring | [Email Domain Security Checker](https://apify.com/pandadad0214/email-domain-security-checker) (SPF, DKIM, DMARC) · [AI Search & SEO Audit](https://apify.com/pandadad0214/ai-search-seo-audit) · [Topic Trends Tracker](https://apify.com/pandadad0214/topic-trends-tracker) · [PDF Table Extractor](https://apify.com/pandadad0214/pdf-table-extractor) · [Manual Remake](https://apify.com/pandadad0214/manual-remake) · [Website Change Monitor](https://apify.com/pandadad0214/website-change-monitor) · [Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner) (free) · [Bulk Domain WHOIS & Expiry Checker](https://apify.com/pandadad0214/bulk-domain-whois-expiry) (RDAP) · [Broken Link Checker](https://apify.com/pandadad0214/broken-link-checker) |
+
+### For AI agents
+
+| Field | Value |
+| --- | --- |
+| Purpose | Index of Panda Federation public tools: MCP servers over Apify Actors, local Bash utilities and a free prompt-injection scanner. |
+| Start here | MCP: [panda-federation-tools](https://github.com/pandadad0214/panda-federation-tools) (pick one domain server). Actors: [apify.com/pandadad0214](https://apify.com/pandadad0214). Machine-readable: [llms.txt](https://github.com/pandadad0214/panda-federation-tools/blob/main/llms.txt). |
+| Cost | Apify tools are pay per result with a per-call cap; the scanner, Quiet File Team, Watchdog Panda and Steel Panda are free. |
 
 Official, free data sources only (Crossref, OpenAlex, PubMed, Grants.gov, USAspending, NPI, FMCSA, OpenStreetMap, public DNS, SEC EDGAR, ClinicalTrials.gov, IRS, Federal Register, FDA, CPSC, NHTSA, city permit portals, Florida Sunbiz, Texas Comptroller, New York DOS, DOL LCA, EU TED, RDAP, Internet Archive). No logins, no paywalls, no LinkedIn scraping.
 
