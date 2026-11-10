@@ -20,6 +20,12 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 ---
 
+## Part of [Panda Federation](https://pandafederation.github.io/)
+
+[![Part of Panda Federation](https://pandafederation.github.io/assets/badge.svg)](https://pandafederation.github.io/)
+
+The full catalog of MCP servers, Apify tools, apps, services, and books lives at the [official site](https://pandafederation.github.io/).
+
 ## How to use this
 
 Pick the path that fits:
