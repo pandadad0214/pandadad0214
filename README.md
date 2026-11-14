@@ -24,6 +24,7 @@ The Panda Federation is a family of small, dependable AI agents and data tools. 
 
 [![Part of Panda Federation](https://pandafederation.com/assets/badge.svg)](https://pandafederation.com/)
 [![Approved on SaaSHub](https://cdn-b.saashub.com/img/badges/approved-color.png?v=1)](https://www.saashub.com/panda-federation-tools?utm_source=badge&utm_campaign=badge&utm_content=panda-federation-tools&badge_variant=color&badge_kind=approved)
+[![Listed on Submit AI Tools](https://submitaitools.org/static_submitaitools/images/submitaitools.png)](https://submitaitools.org/pandadad0214-github-io-panda-federation-tools/)
 
 The full catalog of MCP servers, Apify tools, apps, services, and books lives at the [official site](https://pandafederation.com/).
 
